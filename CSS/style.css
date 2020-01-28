@@ -1,0 +1,23 @@
+body{
+  background-color: #ff4c68;
+}
+h1{
+  color: Black;
+  text-align: center;
+  padding: 2%;
+  font-family: 'Montserrat-Black';
+}
+p{
+  font-size: 2rem;
+  padding: 3%;
+}
+img{
+  padding: 4%;
+  overflow:hidden;
+}
+.carousel-styling-div{
+  width: auto;
+height: 700px;
+max-height: 700px;
+overflow: hidden;
+}
